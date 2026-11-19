@@ -1,0 +1,10 @@
+Name each picture exactly like its map, in lower case:
+
+    ttt_clue_se.jpg
+    ttt_minecraft_b5.jpg
+
+.jpg or .png, wide (16:9), about 800 x 450 is plenty.
+Easiest way: join the map, find a good view, press F12 for a Steam
+screenshot, crop it and save it here.
+
+A map with no picture shows a drawn leaf and a note instead.
